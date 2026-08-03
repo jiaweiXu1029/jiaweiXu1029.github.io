@@ -150,7 +150,7 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 
 
 
-# 📖 Education
+# 🎓 Education & Experience
 
 
 - *2027.09 - *,  
@@ -174,18 +174,6 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 - Multimodal Representation Learning
 
 - Medical Image Segmentation
-
-
-
-# 💬 Invited Talks
-
-Coming soon.
-
-
-
-# 💻 Internships
-
-Coming soon.
 
 
 
