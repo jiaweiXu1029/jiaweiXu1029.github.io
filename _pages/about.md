@@ -32,7 +32,7 @@ My research focuses on **context-aware visual understanding and intelligent segm
 My research goal is to develop vision models with stronger **semantic reasoning ability**, **multimodal perception capability**, and **generalization ability** for complex real-world scenarios.
 
 
-I have published research papers in **CVPR, Neural Networks, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), and IEEE Transactions on Visualization and Computer Graphics (TVC)**.
+I have published research papers in **CVPR, Neural Networks, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), and TVC**.
 
 
 
@@ -62,7 +62,7 @@ I have published research papers in **CVPR, Neural Networks, IEEE Transactions o
 
 [**TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation**](#)
 
-**Jiawei Xu**
+**Jiawei Xu**, Qiangqiang Zhou, Dandan Zhu, Yong Chen, Yugen Yi, Xiaoqi Zhao
 
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**
 
@@ -85,7 +85,7 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 
 [**HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection**](#)
 
-**Jiawei Xu**
+**Jiawei Xu**, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu
 
 **Neural Networks, 2026**
 
@@ -108,7 +108,7 @@ A bio-inspired network for unified salient and camouflaged object detection by m
 
 [**DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance**](#)
 
-**Jiawei Xu**
+Qiangqiang Zhou, **Jiawei Xu#**, Dandan Zhu, Yong Chen, Yugen Yi, Xiaoqi Zhao
 
 **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026**
 
@@ -131,7 +131,7 @@ A multimodal binary segmentation framework that explores differential perception
 
 [**Semantic-Orthogonal Multi-modal Attention Network for RGB-D Salient Object Detection**](#)
 
-**Jiawei Xu**
+**Jiawei Xu**, Qiangqiang Zhou, Jiacong Yu, Chen Liao1, Dandan Zhu
 
 **TVC,  2025**
 
