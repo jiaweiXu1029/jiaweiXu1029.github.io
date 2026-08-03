@@ -15,44 +15,188 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am **Jiawei Xu (徐佳伟)**, an incoming **Ph.D. student at East China Normal University (ECNU)** in 2027.
+
+My research focuses on **context-aware visual understanding and intelligent segmentation systems**, especially:
+
+- Context-dependent concept understanding and segmentation
+- Salient Object Detection
+- Multimodal Image Segmentation
+- Medical Image Segmentation
+
+
+My research goal is to develop vision models with stronger **semantic reasoning ability**, **multimodal perception capability**, and **generalization ability** for complex real-world scenarios.
+
+
+I have published research papers in **CVPR, Neural Networks, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), and IEEE Transactions on Visualization and Computer Graphics (TVC)**.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2026*: 🎉 **TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation** accepted by **CVPR 2026**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *2026*: 🎉 **HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection** published in **Neural Network 2026s**.
+
+- *2026*: 🎉 **DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance** published in **IEEE TCSVT 2026**.
+
+- *2025*: 🎉 **Semantic-Orthogonal Multi-modal Attention Network for RGB-D Salient Object Detection** published in **TVC 2025**.
+
+
+# 📝 Publications
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">CVPR 2026</div>
+<img src='images/TP-Seg.png' alt="TP-Seg" width="100%">
+</div>
+</div>
+
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation**](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiawei Xu**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**
+
+A task-prototype framework for unified medical lesion segmentation, aiming to improve segmentation generalization across diverse medical scenarios.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Neural Networks 2026</div>
+<img src='images/HVPNet.png' alt="HVPNet" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[**HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection**](#)
+
+**Jiawei Xu**
+
+**Neural Networks, 2026**
+
+A bio-inspired network for unified salient and camouflaged object detection by modeling effective visual perception mechanisms.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCSVT 2026</div>
+<img src='images/DifferSeg.png' alt="DifferSeg" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[**DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance**](#)
+
+**Jiawei Xu**
+
+**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026**
+
+A multimodal binary segmentation framework that explores differential perception and frequency-aware guidance for robust segmentation.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TVC 2025</div>
+<img src='images/SOMA.png' alt="SOMAN" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[**Semantic-Orthogonal Multi-modal Attention Network for RGB-D Salient Object Detection**](#)
+
+**Jiawei Xu**
+
+**TVC,  2025**
+
+A semantic-orthogonal multimodal attention network for RGB-D salient object detection.
+
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Research achievements in computer vision and multimodal segmentation.
+
+- Published papers in top-tier computer vision conferences and journals.
+
+
+
+# 📖 Education
+
+
+- *2027.09 - *,  
+  **East China Normal University**,  
+  Ph.D. Student
+
+
+- *2026.03 - Present*,  
+  **X3000 Inspection x NTU AI4X**,  
+  Intern
+
+
+
+# 🔬 Research Interests
+
+
+- Context-dependent Concept Understanding and Segmentation
+
+- Salient Object Detection
+
+- Multimodal Representation Learning
+
+- Medical Image Segmentation
+
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+Coming soon.
+
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+Coming soon.
+
+
+
+# 📫 Contact
+
+
+GitHub:
+
+https://github.com/jiaweiXu1029
+
+
+Email:
+
+javaxu1029@gmail.com
