@@ -188,3 +188,26 @@ https://github.com/jiaweiXu1029
 Email:
 
 javaxu1029@gmail.com
+
+<div class="visitor-counter">
+  👀 累计访客数：<span id="busuanzi_value_site_uv">加载中...</span>
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<style>
+.visitor-counter {
+  margin-top: 30px;
+  padding: 10px 16px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background-color: #fafafa;
+  color: #666666;
+  font-size: 14px;
+  display: inline-block;
+}
+#busuanzi_value_site_uv {
+  font-weight: bold;
+  color: #333333;
+}
+</style>
