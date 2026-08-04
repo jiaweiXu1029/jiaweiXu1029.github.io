@@ -32,7 +32,7 @@ My research focuses on **context-aware visual understanding and intelligent segm
 My research goal is to develop vision models with stronger **semantic reasoning ability**, **multimodal perception capability**, and **generalization ability** for complex real-world scenarios.
 
 
-I have published research papers in **CVPR, Neural Networks, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), and TVC**.
+I have published research papers in **CVPR, Neural Networks, TCSVT, and TVC**.
 
 
 
@@ -60,7 +60,7 @@ I have published research papers in **CVPR, Neural Networks, IEEE Transactions o
 
 <div class='paper-box-text' markdown="1">
 
-[**TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation**](#)
+[**TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation**](https://arxiv.org/pdf/2604.00684v1)
 
 **Jiawei Xu**, Qiangqiang Zhou, Dandan Zhu, Yong Chen, Yugen Yi, Xiaoqi Zhao
 
@@ -83,7 +83,7 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 
 <div class='paper-box-text' markdown="1">
 
-[**HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection**](#)
+[**HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection**](https://arxiv.org/pdf/2606.31496v1)
 
 **Jiawei Xu**, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu
 
@@ -106,7 +106,7 @@ A bio-inspired network for unified salient and camouflaged object detection by m
 
 <div class='paper-box-text' markdown="1">
 
-[**DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance**](#)
+[**DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance**](https://arxiv.org/pdf/2606.08906v1)
 
 Qiangqiang Zhou, **Jiawei Xu#**, Dandan Zhu, Yong Chen, Yugen Yi, Xiaoqi Zhao
 
