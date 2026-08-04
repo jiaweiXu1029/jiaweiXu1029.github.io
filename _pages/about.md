@@ -38,13 +38,13 @@ I have published research papers in **CVPR, Neural Networks, TCSVT, and TVC**.
 
 # 🔥 News
 
-- *2026*: 🎉 **TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation** accepted by **CVPR 2026**.
+- *2026.7*: 🎉 **HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection** published in **Neural Network 2026s**.
 
-- *2026*: 🎉 **HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection** published in **Neural Network 2026s**.
+- *2026.6*: 🎉 **DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance** published in **IEEE TCSVT 2026**.
 
-- *2026*: 🎉 **DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance** published in **IEEE TCSVT 2026**.
+- *2026.4*: 🎉 **TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation** accepted by **CVPR 2026**.
 
-- *2025*: 🎉 **Semantic-Orthogonal Multi-modal Attention Network for RGB-D Salient Object Detection** published in **TVC 2025**.
+- *2025.5*: 🎉 **Semantic-Orthogonal Multi-modal Attention Network for RGB-D Salient Object Detection** published in **TVC 2025**.
 
 
 # 📝 Publications
