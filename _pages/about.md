@@ -153,7 +153,7 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 # 🎓 Education & Experience
 
 
-- *2027.09 - *,  
+- *2027.09 - 2031.06*,  
   **East China Normal University**,  
   Ph.D. Student
 
