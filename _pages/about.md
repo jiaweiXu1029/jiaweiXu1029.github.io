@@ -155,15 +155,13 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 
 - *2027.09 - 2031.06*,  
   **East China Normal University**,  
-  Ph.D. Student
-  
+  Ph.D. Student  
   Advisor: **Prof. Dandan Zhu**
 
 
 - *2026.03 - Present*,  
-  **X3000 Inspection x NTU AI4X** 
-  Intern
-  
+  **X3000 Inspection x NTU AI4X** ,  
+  Intern  
   Advisor: **Dr. Xiaoqi Zhao and Dr. Youwei Pang**
 
 
