@@ -75,6 +75,28 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 <div class='paper-box-image'>
 <div>
 <div class="badge">arXiv 2026</div>
+<img src='images/ViCo-SAM3.png' alt="ViCo-SAM3" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[**ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation**](http://arxiv.org/abs/2608.25808)
+
+Qiangqiang Zhou, Wenjun Tang，Yong Chen, Dandan Zhu, **Jiawei Xu#**
+
+**arXiv 2026**
+
+A Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation.
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">arXiv 2026</div>
 <img src='images/TDFNet.png' alt="TDFNet" width="100%">
 </div>
 </div>
@@ -88,27 +110,6 @@ Qiangqiang Zhou, JiacongYu，**Jiawei Xu#**, Yong Chen, Xin Huang, Ping Li
 **arXiv 2026**
 
 A Tri-projection Deformable Fusion for Panoramic Salient Object Detection.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">arXiv 2026</div>
-<img src='images/ViCo-SAM3.pdf' alt="ViCo-SAM3" width="100%">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-[**ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation**](http://arxiv.org/abs/2608.25808)
-
-Qiangqiang Zhou, Wenjun Tang，Yong Chen, Dandan Zhu, **Jiawei Xu#**
-
-**arXiv 2026**
-
-A Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation.
 
 </div>
 </div>
