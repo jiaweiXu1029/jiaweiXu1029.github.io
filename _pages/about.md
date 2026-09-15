@@ -81,7 +81,7 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 
 <div class='paper-box-text' markdown="1">
 
-[**ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation**](http://arxiv.org/abs/2608.25808)
+[**ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation**](https://arxiv.org/abs/2609.15418)
 
 Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, **Jiawei Xu#**
 
