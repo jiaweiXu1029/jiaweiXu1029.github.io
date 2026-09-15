@@ -37,6 +37,7 @@ I have published research papers in **CVPR, Neural Networks, TCSVT, and TVC**.
 
 
 # 🔥 News
+- *2026.10*: 🎉 **National Graduate Student Scholarship, Ministry of Education, China**.
 
 - *2026.7*: 🎉 **HVPNet: A Bio-inspired Network for General Salient and Camouflaged Object Detection** published in **Neural Network 2026**.
 
