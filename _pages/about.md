@@ -76,7 +76,7 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 <div class='paper-box-image'>
 <div>
 <div class="badge">arXiv 2026</div>
-<img src='images/ViCo-SAM3.png' alt="ViCo-SAM3" width="100%">
+<img src='images/S2A.png' alt="S2A" width="100%">
 </div>
 </div>
 
@@ -84,7 +84,7 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 
 [**S2A: Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection**](https://arxiv.org/pdf/2609.15418)
 
-Qiangqiang Zhou, Yang Luo, Yong Chen, Dandan Zhu, **Jiawei Xu#**
+Qiangqiang Zhou, Yang Luo, Yong Chen, **Jiawei Xu#**
 
 **arXiv 2026**
 
