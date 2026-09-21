@@ -82,6 +82,28 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 
 <div class='paper-box-text' markdown="1">
 
+[**S2A: Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection**](https://arxiv.org/pdf/2609.15418)
+
+Qiangqiang Zhou, Yang Luo, Yong Chen, Dandan Zhu, **Jiawei Xu#**
+
+**arXiv 2026**
+
+A Semantic-to-Spatial Alignment for RGB-T Salient Objection Detection.
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">arXiv 2026</div>
+<img src='images/ViCo-SAM3.png' alt="ViCo-SAM3" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 [**ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation**](https://arxiv.org/pdf/2609.15418)
 
 Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, **Jiawei Xu#**
