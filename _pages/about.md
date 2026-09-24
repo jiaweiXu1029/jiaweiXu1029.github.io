@@ -82,7 +82,7 @@ A task-prototype framework for unified medical lesion segmentation, aiming to im
 
 <div class='paper-box-text' markdown="1">
 
-[**S2A: Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection**](https://arxiv.org/pdf/2609.15418)
+[**S2A: Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection**](http://arxiv.org/abs/2609.27413)
 
 Qiangqiang Zhou, Yang Luo, Yong Chen, **Jiawei Xu#**
 
