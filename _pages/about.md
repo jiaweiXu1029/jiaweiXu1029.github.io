@@ -210,9 +210,7 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 
 # 🎖 Honors and Awards
 
-- Research achievements in computer vision and multimodal segmentation.
-
-- Published papers in top-tier computer vision conferences and journals.
+- National Graduate Student Scholarship, Ministry of Education, China.
 
 
 
