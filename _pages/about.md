@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am **Jiawei Xu (徐佳伟)**, an incoming **Ph.D. student at East China Normal University (ECNU)** in 2027, under the supervision of **Prof. Dandan Zhu**.
+I am **Jiawei Xu (徐佳伟)**, an incoming Ph.D. student at East China Normal University in 2027, under the supervision of **Prof. Dandan Zhu**.
 
 My research focuses on **context-aware visual understanding and intelligent segmentation systems**, especially:
 
@@ -29,7 +29,7 @@ My research focuses on **context-aware visual understanding and intelligent segm
 - Medical Image Segmentation
 
 
-My research goal is to develop vision models with stronger **semantic reasoning ability**, **multimodal perception capability**, and **generalization ability** for complex real-world scenarios.
+My research goal is to develop vision models with stronger semantic reasoning ability, multimodal perception capability, and generalization ability for complex real-world scenarios.
 
 
 I have published research papers in **CVPR, Neural Networks, TCSVT, and TVC**.
@@ -209,6 +209,7 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 
 
 # 🎖 Honors and Awards
+- Outstanding Graduate Student (University-level)
 
 - National Graduate Student Scholarship, Ministry of Education, China.
 
@@ -224,7 +225,7 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 
 
 - *2026.03 - Present*,  
-  **X3000 Inspection x NTU AI4X** ,  
+  **X3000 Inspection x NTU AI4X**,  
   Intern  
   Advisor: **Dr. Xiaoqi Zhao and Dr. Youwei Pang**
 
