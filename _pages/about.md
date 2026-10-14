@@ -209,7 +209,7 @@ A semantic-orthogonal multimodal attention network for RGB-D salient object dete
 
 
 # 🎖 Honors and Awards
-- Outstanding Graduate Student (University-level)
+- University-level Outstanding Graduate Student
 
 - National Graduate Student Scholarship, Ministry of Education, China.
 
